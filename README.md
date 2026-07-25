@@ -1,0 +1,2 @@
+# Curious Developer
+Curious Developer is a collection of Data Structures and Algorithms practice solutions organized by topic and language, covering Arrays, Binary Search, Linked Lists, Math, Sliding Window, Strings, and Trees implemented in C++, Java, and Python, structured week-wise to track consistent problem-solving progress as part of placement preparation, with each folder containing focused implementations and solutions to strengthen core DSA concepts and coding interview readiness.
